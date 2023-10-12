@@ -22,7 +22,7 @@ The whole project is done locally.
 
 To run this project, you need to follow these installation steps:
 
-* git clone https://git.epam.com/dinar_orazgaliyev/m06_sparkbasics_python_azure.git
+* git clone https://github.com/dinar-orazgaliyev/sparkbasicwithpython
 
 * Setup needed requirements into your env `pip install -r requirements.txt`
 * code is in `src/main/`
