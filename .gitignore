@@ -5,7 +5,7 @@
 /.idea
 /target
 *.iml
-
+.env
 .venv/
 venv/
 venv_p/
